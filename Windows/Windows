@@ -1,11 +1,17 @@
 VS code
+
 -java package
 JDK
 
 git
 MAVEN
+-https://blog.csdn.net/jzlswc_7620255/article/details/94590020
+-https://www.cnblogs.com/happyday56/p/8968328.html
+-http://maven.apache.org/download.cgi
 Docker
 -Hyper-V
+--https://docs.microsoft.com/zh-cn/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+
 -docker install 
 -docker compose
 Github
